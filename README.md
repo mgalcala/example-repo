@@ -1,2 +1,2 @@
 # example-repo
-Example repo to demonstrate the process or submitting a pull request
+Example repo to demonstrate the process of submitting pull request
